@@ -1,4 +1,5 @@
 # EDUCATIONAL WEBSITE
+# LIVE DEMO : http://127.0.0.1:5500/dist/index.html
 
 # Introduction
 Welcome to the Educational Website repository! This project uses Tailwind CSS to create a responsive and modern platform for educational content. The website is designed to provide a seamless learning experience with interactive elements and a clean user interface.
